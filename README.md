@@ -12,6 +12,10 @@ I am keep improving the mechanism since it is still under testing.
 Let me know if you have any question.
 </br></br></br>
 
+Parts you need
+--------
+Gear shifter like 4 or 6 speed Shimano. Cable must travel **2.8mm** on each gear shift.
+
 
 Donation
 --------
