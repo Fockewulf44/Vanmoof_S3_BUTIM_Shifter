@@ -19,10 +19,11 @@ Parts you need
 
 * 3D printed case: Top, Bottom, Intermediate gear, Helical gear, Involute Rack(cable shifter)
   </br>
+  </br>
   Printing settings:
-  <br>
+  </br>
   Material: **PLA or PETG**
-  <br>
+  </br>
   Infill: for Top and Bottom case **15%** or **20%**; for gears I would recommend at least **60%**
 
   <img src= "/Images/Bottom_Inside_v_1_2.jpg" width = "400" />
