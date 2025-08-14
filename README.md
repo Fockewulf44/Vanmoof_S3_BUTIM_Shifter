@@ -48,9 +48,9 @@ Assembling
 **1. M7 Brake Lever Adjuster**
 **2. Cable Shifter**
 **3. Intermediate gear**
-**4. Helical gear
+4. Helical gear
 5. Spring with diameter 9mm
-6. Spring with diameter 5mm**
+6. Spring with diameter 5mm
 
 **Instruction:**
 </br>
