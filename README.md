@@ -44,8 +44,9 @@ Assembling
 ----------
 <img src= "Images/Assembling_v1_1.jpg" width = "800" />
 </br>
-1. **M7 Brake Lever Adjuster**
-2. **Cable Shifter**
+
+1. M7 Brake Lever Adjuster
+2. Cable Shifter
 3. **Intermediate gear**
 4. **Helical gear**
 5. **Spring with diameter 9mm**
