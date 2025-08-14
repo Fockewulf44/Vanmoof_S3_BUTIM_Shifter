@@ -12,30 +12,36 @@ I am continuously improving the mechanism as it is still under testing.
 Let me know if you have any question.
 </br></br></br>
 
+<img src= "/Images/Shifter_v1_1.jpg" width = "800" />
+
 Parts you need
 --------
 
-* 3D printed case: Top, Bottom, Intermediate gear, Helical gear, Involute Rack(cable shifter)
-  <br>
+* **3D printed parts**: Top, Bottom, Intermediate gear, Helical gear, Involute Rack(cable shifter)
+  </br>
+  </br>
   Printing settings:
-  <br>
-  Material: PLA or PETG
-  <br>
-  Infill: for Top and Bottom case 15 or 20 %; for gears I would recommend at least 60%
+  </br>
+  Material: **PLA or PETG**
+  </br>
+  Infill: for Top and Bottom case **15%** or **20%**; for gears I would recommend at least **60%**
 
   <img src= "/Images/Bottom_Inside_v_1_2.jpg" width = "400" />
   <img src= "/Images/Top_Internal_v_1_2.jpg" width = "400" />
-* Shimano Gear shifter like 4 or 6 speed. Cable must travel **2.8mm** on each gear shift. Shimano 7 speed has a shorter cable travel, so it won't work.
+* **Shimano Gear shifter** like 4 or 6 speed. Cable must travel **2.8mm** on each gear shift. Shimano 7 speed has a shorter cable travel, so it won't work.
   
   <img src= "/Images/Shimano RevoShift_6_speed.png" width = "400" />
-* M7 Brake Lever Adjuster
+* **M7 Brake Lever Adjuster**
   
   <img src= "/Images/M7_Brake_Lever_Adjuster.jpg" width = "400" />
-* x3 M3 heat insert nut
-* x3 M3 screws 20mm-25mm
-* Spring - Diameter: 9mm, Length: 3-5 cm
-* Spring - Diameter: 4mm-6mm, Length: 2-4 cm
+* **x3 M3 heat insert nut**
+* **x3 M3 screws** 20mm-25mm
+* **Bike cable fixing bolt**
+* **Spring** - Diameter: 9mm, Length: 3-5 cm
+* **Spring** - Diameter: 4mm-6mm, Length: 2-4 cm
 
+Assembling
+----------
 
 Donation
 --------
