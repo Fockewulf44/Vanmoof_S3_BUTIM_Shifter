@@ -51,10 +51,11 @@ Assembling
 5. **Spring with diameter 9mm**
 6. **Spring with diameter 5mm**
 
-Instruction:
-Before assembling make sure that you put enough of silicone grease. It will make shifting smoother. After assembling add more grease.
+**Instruction:**
 </br>
-Helical gear has a dot. That dot shows the current gear. 
+Before assembling, make sure that you put enough of silicone grease. It will make shifting way smoother. After assembling add more grease.
+</br>
+The helical gear has a dot that indicates the current gear. Each gear corresponds to 30 degrees of rotation, so moving from first gear to fourth gear requires a total rotation of 90 degrees. Adjust Cable shifter(Involute Rack) that way that switching from first gear to fourth gear is within the range.
 
 Donation
 --------
