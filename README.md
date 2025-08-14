@@ -42,6 +42,19 @@ Parts you need
 
 Assembling
 ----------
+<img src= "Images/Assembling_v1_1.jpg" width = "800" />
+</br>
+1. **M7 Brake Lever Adjuster**
+2. **Cable Shifter**
+3. **Intermediate gear**
+4. **Helical gear**
+5. **Spring with diameter 9mm**
+6. **Spring with diameter 5mm**
+
+Instruction:
+Before assembling make sure that you put enough of silicone grease. It will make shifting smoother. After assembling add more grease.
+</br>
+Helical gear has a dot. That dot shows the current gear. 
 
 Donation
 --------
