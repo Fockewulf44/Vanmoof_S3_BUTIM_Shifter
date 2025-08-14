@@ -14,7 +14,12 @@ Let me know if you have any question.
 
 Parts you need
 --------
-Gear shifter like 4 or 6 speed Shimano. Cable must travel **2.8mm** on each gear shift.
+
+*Gear shifter like 4 or 6 speed Shimano. Cable must travel **2.8mm** on each gear shift.
+*M7 Brake Lever Adjuster
+* x3 Heat sink
+* x3 M6 screws
+* Spring. Diameter: 8mm, Length: 3-4cm
 
 
 Donation
