@@ -16,7 +16,7 @@ Parts you need
 --------
 
 * 3D printed case: Top, Bottom, Intermediate gear, Helical gear, Involute Rack(cable shifter)
-* <br>
+  <br>
   Printing settings:
   <br>
   Material: PLA or PETG
