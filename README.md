@@ -19,7 +19,7 @@ Parts you need
 * M7 Brake Lever Adjuster
 * x3 M3 heat insert nut
 * x3 M3 screws 20mm-25mm
-* Spring - Diameter: 9mm, Length: 3-4 cm
+* Spring - Diameter: 9mm, Length: 3-5 cm
 * Spring - Diameter: 4mm-6mm, Length: 2-4 cm
 
 
