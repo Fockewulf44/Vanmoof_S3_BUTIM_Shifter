@@ -12,6 +12,8 @@ I am continuously improving the mechanism as it is still under testing.
 Let me know if you have any question.
 </br></br></br>
 
+<img src= "/Images/Shifter_v1_1.jpg" width = "800" />
+
 Parts you need
 --------
 
