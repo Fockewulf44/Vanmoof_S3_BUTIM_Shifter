@@ -7,14 +7,20 @@ Overview
 
 This is Vanmoof S3 E-shifter replacement.
 </br>
-I am keep improving the mechanism since it is still under testing.
+I am continuously improving the mechanism as it is still under testing.
 </br>
 Let me know if you have any question.
 </br></br></br>
 
 Parts you need
 --------
-Gear shifter like 4 or 6 speed Shimano. Cable must travel **2.8mm** on each gear shift.
+
+* Shimano Gear shifter like 4 or 6 speed. Cable must travel **2.8mm** on each gear shift. Shimano 7 speed has a shorter cable travel, so it won't work.
+* M7 Brake Lever Adjuster
+* x3 M3 heat insert nut
+* x3 M3 screws 20mm-25mm
+* Spring - Diameter: 9mm, Length: 3-5 cm
+* Spring - Diameter: 4mm-6mm, Length: 2-4 cm
 
 
 Donation
