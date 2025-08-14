@@ -19,7 +19,7 @@ Parts you need
 *M7 Brake Lever Adjuster
 * x3 Heat sink
 * x3 M6 screws
-* Spring. Diameter: 8mm, Length: 3-4cm
+* Spring. Diameter: 8mm, Length: 3-4 cm
 
 
 Donation
