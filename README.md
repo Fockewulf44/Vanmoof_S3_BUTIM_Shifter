@@ -15,7 +15,8 @@ Let me know if you have any question.
 Parts you need
 --------
 
-* Shimano Gear shifter like 4 or 6 speed. Cable must travel **2.8mm** on each gear shift. Shimano 7 speed has a shorter cable travel, so it won't work.
+* Shimano Gear shifter like 4 or 6 speed. Cable must travel **2.8mm** on each gear shift. Shimano 7 speed has a shorter cable travel, so it won't work.   
+  <img src= "/Images/Shimano RevoShift_6_speed.png" width = "400" />
 * M7 Brake Lever Adjuster
   <img src= "/Images/M7_Brake_Lever_Adjuster.jpg" width = "400" />
 * x3 M3 heat insert nut
