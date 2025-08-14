@@ -7,7 +7,7 @@ Overview
 
 This is Vanmoof S3 E-shifter replacement.
 </br>
-I am keep improving the mechanism since it is still under testing.
+I am continuously improving the mechanism as it is still under testing.
 </br>
 Let me know if you have any question.
 </br></br></br>
