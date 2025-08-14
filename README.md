@@ -17,7 +17,7 @@ Parts you need
 
 * Shimano Gear shifter like 4 or 6 speed. Cable must travel **2.8mm** on each gear shift. Shimano 7 speed has a shorter cable travel, so it won't work.
 * M7 Brake Lever Adjuster
-  <img src= "/.github/Images/M7_Brake_Lever Adjuster.jpg" width = "400" />
+  <img src= "/Images/M7_Brake_Lever_Adjuster.jpg" width = "400" />
 * x3 M3 heat insert nut
 * x3 M3 screws 20mm-25mm
 * Spring - Diameter: 9mm, Length: 3-5 cm
