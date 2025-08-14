@@ -20,7 +20,7 @@ Parts you need
 * x3 M3 heat insert nut
 * x3 M3 screws 20mm-25mm
 * Spring - Diameter: 9mm, Length: 3-4 cm
-* Spring - Diameter: 4mm, Length: 2-3 cm
+* Spring - Diameter: 4mm-5mm, Length: 2-3 cm
 
 
 Donation
