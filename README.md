@@ -36,9 +36,12 @@ Parts you need
   <img src= "/Images/M7_Brake_Lever_Adjuster.jpg" width = "400" />
 * x3 M3 heat insert nut
 * x3 M3 screws 20mm-25mm
+* Bike cable fixing bolt
 * Spring - Diameter: 9mm, Length: 3-5 cm
 * Spring - Diameter: 4mm-6mm, Length: 2-4 cm
 
+Assembling
+----------
 
 Donation
 --------
