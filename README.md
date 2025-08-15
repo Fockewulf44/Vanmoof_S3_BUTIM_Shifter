@@ -60,7 +60,7 @@ The helical gear has a dot that indicates the current gear. Each gear correspond
 
 Donation
 --------
-If you liked this shifter and want to support the project, you could donate here:
+Enjoying this project? Buy me a coffee
 </br>
 
 <a href="https://www.paypal.com/donate/?business=R73RPVMAPAQUJ&no_recurring=0&currency_code=USD" target="_blank">
