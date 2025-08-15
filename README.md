@@ -63,7 +63,7 @@ The helical gear has a dot that indicates the current gear. Each gear correspond
 </br>
 
 <a href="https://www.paypal.com/donate/?business=R73RPVMAPAQUJ&no_recurring=0&currency_code=USD" target="_blank">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Click to visit Example" width="150" height="100" />
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Click to visit Example" width="140" height="100" />
 </a>
 
 
