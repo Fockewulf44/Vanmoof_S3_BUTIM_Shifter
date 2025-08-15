@@ -62,9 +62,9 @@ Donation
 --------
 If you liked this shifter and want to support the project, you could donate here:
 </br>
-Paypal: cruel.programmer@gmail.com
 
 <a href="https://www.paypal.com/donate/?business=R73RPVMAPAQUJ&no_recurring=0&currency_code=USD" target="_blank">
-    <img src="Images/Assembling_v1_1.jpg" alt="Click to visit Example" width="200" height="150" />
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Click to visit Example" width="200" height="150" />
 </a>
+
 
