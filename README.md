@@ -58,7 +58,11 @@ Assembling
 Before assembling, make sure that you put enough silicone grease. It will make shifting way smoother. After assembling add more grease.
 </br>
 The helical gear has a dot that indicates the current gear. Each gear corresponds to 30 degrees of rotation, so moving from first gear to fourth gear requires a total rotation of 90 degrees. Adjust Cable shifter(Involute Rack) that way that switching from first gear to fourth gear is within the range.
+</br>
+</br>
+**DON'T TIGHT THIS ONE MUCH. JUST LIGHTLY**
 
+<img src= "Images/Dont_Tight_it_Much.png" width = "500" />
 </br></br></br>
 **Enjoying this project? Buy me a coffee**
 </br>
