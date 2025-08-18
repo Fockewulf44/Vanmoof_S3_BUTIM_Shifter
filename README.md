@@ -51,6 +51,7 @@ Assembling
 4. **Helical gear**
 5. **Spring with diameter 9mm**
 6. **Spring with diameter 5mm**
+7. **Silicon grease or any other plastic compatabile grease**
 
 **Instruction:**
 </br>
