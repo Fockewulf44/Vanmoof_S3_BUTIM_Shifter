@@ -39,6 +39,7 @@ Parts you need
 * **Bike cable fixing bolt**
 * **Spring** - Diameter: 9mm, Length: 3-5 cm
 * **Spring** - Diameter: 4mm-6mm, Length: 2-4 cm
+* **Silicon grease or any other plastic compatabile grease**
 
 Assembling
 ----------
@@ -51,7 +52,6 @@ Assembling
 4. **Helical gear**
 5. **Spring with diameter 9mm**
 6. **Spring with diameter 5mm**
-7. **Silicon grease or any other plastic compatabile grease**
 
 **Instruction:**
 </br>
