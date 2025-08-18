@@ -64,6 +64,7 @@ The helical gear has a dot that indicates the current gear. Each gear correspond
 
 <img src= "Images/Dont_Tight_it_Much.png" width = "500" />
 </br></br></br>
+
 **Enjoying this project? Buy me a coffee**
 </br>
 
