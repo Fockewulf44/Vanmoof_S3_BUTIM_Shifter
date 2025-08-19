@@ -1,3 +1,5 @@
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Fockewulf44/Vanmoof_S3_ESHIFTER_3D_version_Replacement/total)
+
 Vanmoof S3 E-shifter replacement
 --------
 
