@@ -41,12 +41,14 @@ Parts you need
   <img src= "/Images/Shimano RevoShift_6_speed.png" width = "400" />
 * **M7 Brake Lever Adjuster**
   
-  <img src= "/Images/M7_Brake_Lever_Adjuster.jpg" width = "400" />
+  <img src= "/Images/M7_Brake_Lever_Adjuster.png" width = "200" />
 * **x3 M3 heat insert nut**
 * **x3 M3 screws** 20mm-25mm
 * **Bike cable fixing bolt**
 * **Spring** - Diameter: 9mm, Length: 3-5 cm
 * **Spring** - Diameter: 4mm-6mm, Length: 2-4 cm
+* **Wire Fixing Bolt**
+<img src= "/Images/Wire_Fixing_Bolt.png" width = "200" />
 * **Silicon grease or any other plastic compatabile grease**
 
 Assembling
