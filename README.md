@@ -48,6 +48,7 @@ Parts you need
 * **Spring** - Diameter: 9mm, Length: 3-5 cm
 * **Spring** - Diameter: 4mm-6mm, Length: 2-4 cm
 * **Wire Fixing Bolt**
+  
   <img src= "/Images/Wire_Fixing_Bolt.png" width = "200" />
 * **Silicon grease or any other plastic compatabile grease**
 
