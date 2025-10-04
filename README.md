@@ -6,7 +6,7 @@
 [![Donate](https://img.shields.io/badge/Donate-Paypal-green)](https://www.paypal.com/donate/?business=R73RPVMAPAQUJ&no_recurring=0&currency_code=USD)
 
 
-Vanmoof S3 E-shifter replacement
+Vanmoof S3 BUTIM Shifter!
 --------
 
 
