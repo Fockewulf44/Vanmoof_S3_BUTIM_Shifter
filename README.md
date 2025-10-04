@@ -13,9 +13,9 @@ Vanmoof S3 BUTIM Shifter!
 Overview
 --------
 
-This is Vanmoof S3 E-shifter replacement.
+This is Vanmoof S3 E-shifter replacement aka **BUTIM Shifter**
 </br>
-I am continuously improving the mechanism as it is still under testing.
+I am continuously improving the mechanism.
 </br>
 Let me know if you have any question.
 </br></br></br>
