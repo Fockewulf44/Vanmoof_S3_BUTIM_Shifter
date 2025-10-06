@@ -32,7 +32,8 @@ Parts you need
   </br>
   Material: **PLA or PETG**
   </br>
-  Infill: for Top and Bottom case **15%** or **20%**; for gears I would recommend at least **60%**
+  Infill: for Top and Bottom case **15%** or **20%**; for gears I would recommend at least **60%**;
+  Involute rack **70%** and if your PLA is soft then **100%** is recommended.
 
   <img src= "/Images/Bottom_Inside_v_1_2.jpg" width = "400" />
   <img src= "/Images/Top_Internal_v_1_2.jpg" width = "400" />
@@ -62,13 +63,14 @@ Assembling
 3. **Intermediate gear**
 4. **Helical gear**
 5. **Spring with diameter 9mm**
-6. **Spring with diameter 5mm**
+6. **VERY VERY OPTIONAL** **Spring with diameter 5mm**
 
 **Instruction:**
 </br>
 Before assembling, make sure that you put enough silicone grease. It will make shifting way smoother. After assembling add more grease.
 </br>
 The helical gear has a dot that indicates the current gear. Each gear corresponds to 30 degrees of rotation, so moving from first gear to fourth gear requires a total rotation of 90 degrees. Adjust Cable shifter(Involute Rack) that way that switching from first gear to fourth gear is within the range.
+Shimano Revoshift needs to be cut for proper fit and not blocking a brake leverage. I used soldering iron and just melted by creating a pocket for brake leverage and it worked well.
 </br>
 </br>
 **DON'T TIGHT THIS ONE MUCH. JUST LIGHTLY**
