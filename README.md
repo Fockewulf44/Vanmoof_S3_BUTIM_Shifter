@@ -63,7 +63,7 @@ Assembling
 3. **Intermediate gear**
 4. **Helical gear**
 5. **Spring with diameter 9mm**
-6. **Spring with diameter 5mm**
+6. **VERY VERY OPTIONAL** **Spring with diameter 5mm**
 
 **Instruction:**
 </br>
